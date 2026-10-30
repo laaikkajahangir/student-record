@@ -1,1 +1,2 @@
 Student marks record - Laaikka
+Student A: 231
