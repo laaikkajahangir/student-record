@@ -1,9 +1,9 @@
-#Student Record
+# Student Record
 
 A small mini project for the Professional Practice & Digital Skills Lab(BCOELPP325). 
-##About 
+## About 
 This repository stores student marks and shows basic version control with Git and GitHub.
-##Files
+## Files
 -marks.txt : student total marks
 -README.md : project documentation
 ## Author
